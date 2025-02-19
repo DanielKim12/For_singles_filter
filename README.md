@@ -1,9 +1,9 @@
-# Solo Filter - A Chrome Extension for Singles 🚀  
+# Singles Filter - A Chrome Extension for Singles 🚀  
 
 ## Description  
 Tired of seeing couple-related content all over your feed? **Solo Filter** is a Chrome extension designed for **singles** who want to embrace their independence! 🎉  
 
-This extension **filters out and blurs romantic content** on **Instagram** and other social media platforms—so you don’t have to avoid your favorite apps on **Valentine’s Day, National Couples Day, or anniversaries**. No more forced romance—just **pure, solo enjoyment!** 💃🕺  
+This extension **filters out and blurs romantic content** on **Instagram** and other social media platforms—so you don’t have to avoid your favorite apps on **Valentine’s Day, National Couples Day, or anniversaries**. No more forced romance—just **pure, solo enjoyment!**  
 
 ---
 
